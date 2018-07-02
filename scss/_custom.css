@@ -1,0 +1,25 @@
+/*background for homepage content*/
+.myContent{
+  background: $dark;
+}
+
+/*remove border from header */
+.bar-dark{
+  border: none;
+}
+/*border for the text inputs on add page*/
+.myBorder{
+  border: 2px solid black;
+}
+/*recipe listing*/
+.re:listing{
+  text-align: center;
+  a{
+    text-decoration: none;
+  }
+}
+
+/*wrapping for ion-item*/
+.item{
+  white-space: normal;
+}
